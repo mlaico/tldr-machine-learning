@@ -1,4 +1,9 @@
-Google Large Scale NN Project
+#Google Large Scale NN Project
+
+- DistBelief is Googles large-scale deep learning infrastructure wih two layers of parallelism
+- Deep learning is good to try for machine perception acts (vision, hearing, etc.) and if you have a mountain of (labeled) data
+
+***
 
 Artificial Intelligence and Machine Learning
  - AI: Making machines intelligent
